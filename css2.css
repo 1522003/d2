@@ -1,0 +1,128 @@
+.dish{
+    border: 2px solid whitesmoke;
+    border-radius: 8px;
+    margin: 5px auto;
+    padding: 8px;
+    width: 500px;
+    
+}
+.image{
+    width: 100%;
+    border-radius: 8px;
+}
+.fav{
+    position: absolute;
+    bottom: 0;
+    background-color:blue;
+    margin: 14px auto;
+    padding: 5px 2px;
+    font-size: 14px;
+    color: white;
+    
+} 
+.sticky{
+    position: relative;
+}
+.min{
+    position: absolute;
+    right: 0;
+    background-color:rgb(241, 241, 246);
+    margin: 14px ;
+    padding: 5px 4px;
+    font-size: 14px;
+    color: rgb(7, 7, 7);
+    border-radius: 4px;
+    
+    
+    
+}
+.scene{
+    width: 700px;
+    margin: 70px auto;
+    position: relative;
+}
+.img1{
+    width: 100%;
+    border-radius: 26px;
+}
+.content{
+    position: absolute;
+    bottom: 100px;
+    left: 50px;
+    color: white;
+}
+.btn{
+    background-color: #fff;
+    border: none;
+    padding: 16px 30px;
+    font-size: 16px;
+    border-radius: 8px;
+    margin-left: 230px;
+}
+
+.zomato{
+    width: 500px;
+    position: relative;
+    margin: 80px ;
+}
+.img2{
+    width: 100%;
+    border-radius: 20px;
+}
+.z1{
+    color: rgb(253, 251, 247);
+    font-size: 40px;
+    margin: auto;
+    margin-left: 160px;
+}
+.content2{
+    position: absolute;
+    bottom: 100px;
+    color: white;
+    padding: 19px ;
+   
+}
+.z2{
+    margin-left: 80px;
+    font-size: 15px;
+    
+}
+
+.loc{
+    border: 2px solid whitesmoke;
+    border-radius: 4px;
+    position:absolute;
+    margin-left: 80px;
+    background-color: white;
+    
+}
+
+.profile{
+    border: 2px solid whitesmoke;
+    border-radius:30px ;
+    background-color: whitesmoke;
+    width: 300px;
+    margin: 40px;
+    text-align: center;
+
+}
+.img3{
+    border-radius: 30px;
+    width:100%;
+    
+}
+
+.img4{
+    width: 40%;
+    height: 100px;
+    margin-top: -50px;
+    border-radius: 150px;
+}
+
+.text{
+    font-size: 20px;
+}
+.text2{
+    font-size: 15px;
+}
+
